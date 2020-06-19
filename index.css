@@ -1,0 +1,178 @@
+@media only screen and (max-width: 987px) {
+
+
+
+
+
+.navbar{
+background-color: rgb(238, 238, 18) !important ; 
+}
+
+.navbar h1 {
+    color: white;
+    font-weight: 50px;
+  
+}
+
+ .card-deck {
+    margin-top: 20px;
+} 
+  
+.card-img-top{
+    height: 200px;
+    width: 100px;
+}
+
+.card {
+    align-items: center;
+}
+
+.card img {
+    height: 200px;
+    width: 200px;
+    
+}
+
+.card .btn {
+margin-left: 70px;    
+}
+
+.card-CP{
+    margin-top: 20px;
+    height: 50px;
+    align-content: center;
+}
+
+.card-PP{
+    align-content: center;
+}
+
+.card-CP .heading{
+    position: relative;
+
+}
+
+.card-CP .image img{
+    
+    display: none;
+    
+    /* position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 800px;
+    bottom: 60px; */
+
+}
+
+.card-CP .checkout{
+    
+    position: absolute;
+    top: 120px;
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+    
+    
+
+}
+
+.card-CP .checkout h1 {
+    color: white;
+    text-align: center;
+}
+
+
+
+}
+
+
+
+.navbar{
+    background-color: rgb(238, 238, 18) !important ; 
+    }
+    
+    .navbar h1 {
+        color: white;
+        font-weight: 50px;
+      
+    }
+    
+     .card-deck {
+        margin-top: 20px;
+    } 
+      
+    .card-img-top{
+        height: 200px;
+        width: 100px;
+    }
+    
+    .card {
+        align-items: center;
+    }
+    
+    .card img {
+        height: 200px;
+        width: 200px;
+        
+    }
+    
+    .card .btn {
+    margin-left: 70px;    
+    }
+    
+    .card-CP{
+        margin-top: 20px;
+        height: 50px;
+        align-content: center;
+    }
+    
+    .card-PP{
+        align-content: center;
+    }
+    
+    .card-CP .heading{
+        position: relative;
+    
+    }
+    
+    .card-CP .image img{
+        position: absolute;
+        height: 120px;
+        width: 120px;
+        left: 800px;
+        bottom: 60px;
+    
+    }
+    
+    .card-CP .checkout{
+        
+        position: relative;
+        top: 350px;
+        height: 50px;
+        width: 100%;
+        background-color: yellow;
+        
+        
+    
+    }
+    
+    .card-CP .checkout h1 {
+        color: white;
+        text-align: center;
+    }
+
+    .card-CP .total{
+        position: relative;
+        top: 340px;
+    }
+    .card-CP .total h3 {
+        color: black;
+        text-align: right;
+    }
+    
+    
+
+
+
+
+
